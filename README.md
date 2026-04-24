@@ -19,7 +19,7 @@ Elevation Advisor helps owners:
 
 ## Tech Stack (High-Level)
 - Frontend: React, Next.js
-- Backend: AWS (Lambda, DynamoDB, Redshift)
+- Backend: AWS (Lambda, DynamoDB)
 - Mobile: React Native
 - AI: AWS Bedrock (Claude)
 - Infra: Cloudflare, S3
