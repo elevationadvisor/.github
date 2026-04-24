@@ -8,7 +8,7 @@ Elevation Advisor helps owners:
 - Price work correctly
 - Schedule crews intelligently
 - Understand profitability in real time
-- Reduce cognitive load through AI-driven assistance
+- Reduce cognitive load through intelligent assistance
 
 ## Core Repositories
 - **elevation-next-js** – Web application (Next.js)
