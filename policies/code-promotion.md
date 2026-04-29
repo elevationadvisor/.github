@@ -113,8 +113,9 @@ Owner review includes:
 ### 5. Production Environment
 
 - Code is promoted from `develop` to `main`
-- Production deploys occur with feature flags disabled by default
-- No incomplete or unapproved functionality should be visible to users
+- Feature flags are used to prevent incomplete or unapproved functionality from being visible to users
+- Approved features may be merged and deployed with their feature flags enabled
+- No incomplete or unapproved functionality should be visible to users.
 
 Production deploys should be incremental, reversible, and avoid bundling multiple risky changes.
 
