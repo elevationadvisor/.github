@@ -4,13 +4,13 @@
 
 ## Feature flag?
 
-- [ ] Yes — flag name: `____________________` and is OFF by default
+- [ ] Yes — flag name:[ ] and is OFF by default
 - [ ] No — not required (copy/styling, bug fix, or refactor)
 
 ## Tested on staging?
 
 - [ ] Yes
-- [ ] No — reason: `____________________`
+- [ ] No — reason: [ j
 
 ## Anything Gregg needs to know before reviewing?
 
