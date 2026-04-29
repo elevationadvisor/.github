@@ -46,6 +46,8 @@ Before merging or promoting code, confirm all of the following:
 - [ ] E2E tests passing on staging (manual verification noted for uncovered areas)
 - [ ] Owner review completed within one business day, including hands-on staging verification for user-visible changes
 - [ ] No unintended user-visible changes in production
+- [ ] - API documentation updated for any new or changed external behavior
+Documentation is required when a change introduces or modifies API endpoints, request/response shapes, or externally observable behavior.
 
 ### When to Split Work
 
