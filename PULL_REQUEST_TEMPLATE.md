@@ -12,6 +12,13 @@
 - [ ] No — not required (copy/styling, bug fix, or internal refactor)
 
 
+## API documentation
+
+- [ ] Not applicable (no API or external behavior changes)
+- [ ] Updated — documentation reflects this change
+- [ ] Not updated — reason: [ ]
+
+
 ## Tested on staging?
 
 - [ ] Yes — tested with the intended flag state
