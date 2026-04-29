@@ -71,12 +71,12 @@ All changes must go through a Pull Request into `develop`.
 
 **PR Requirements:**
 
-- Clear description of what changed, why it was done this way, and what would break if it were changed
+- Clear description of what this change does
 - Linked task or priority item (if applicable)
 - Feature flag noted (if used)
 - At least one other developer must approve the PR
 
-> The PR description is where code comprehension is enforced. Developers must be able to explain not just what the code does, but why it was written that way and what the downstream consequences of changing it would be.
+> The PR description is where code comprehension is enforced. Developers must be able to explain what the code does at a minimum. Even better if they can explain why it was written that way and what the downstream consequences of changing it would be.
 
 ### 3. Staging Environment
 
