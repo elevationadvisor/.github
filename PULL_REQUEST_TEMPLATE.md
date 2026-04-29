@@ -5,24 +5,24 @@
 
 ## Feature flag
 
-- [ ] Yes — flag name: [ ]
+- [ ] Yes - flag name: [ ]
   - Flag state in this PR:
     - [ ] OFF (feature is incomplete or not approved for release)
     - [ ] ON (feature is approved and intended to be live after deploy)
-- [ ] No — not required (copy/styling, bug fix, or internal refactor)
+- [ ] No - not required (copy/styling, bug fix, or internal refactor)
 
 
 ## API documentation
 
 - [ ] Not applicable (no API or external behavior changes)
-- [ ] Updated — documentation reflects this change
-- [ ] Not updated — reason: [ ]
+- [ ] Updated - documentation reflects this change
+- [ ] Not updated - reason: [ ]
 
 
 ## Tested on staging?
 
-- [ ] Yes — tested with the intended flag state
-- [ ] No — reason: [ ]
+- [ ] Yes - tested with the intended flag state
+- [ ] No - reason: [ ]
 
 ## Anything Gregg needs to know before reviewing?
 
